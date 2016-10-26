@@ -1,6 +1,6 @@
-title:        My Github YAML Editor Micro Tool Base
-description:  This is base for my Github micro tooling
-url:          http://github-micro-tool.apievangelist.com
+title:        Optical Character Recognition (OCR)
+description:  Pure Javascript OCR for 62 Languages
+url:          https://api-evangelist-tools.github.io/optical-character-recognition/
 
 version:      1.1.1
 
@@ -15,9 +15,9 @@ highlighter:  rouge
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md",".DS_Store"]
 
 github_user: api-evangelist-tools
-github_repo: spreadsheet-to-yaml-in-jekyll
+github_repo: optical-character-recognition
 
-production_url : http://github-micro-tool.apievangelist.com
+production_url : https://api-evangelist-tools.github.io/optical-character-recognition/
 
 image : http://s3.amazonaws.com/kinlane-productions/api-evangelist/t-shirts/KL_InApiWeTrust-1000.png
 imagesecure : https://s3.amazonaws.com/kinlane-productions/api-evangelist/t-shirts/KL_InApiWeTrust-1000.png
